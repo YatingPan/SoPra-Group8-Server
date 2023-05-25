@@ -27,7 +27,7 @@ import java.util.Collection;
 import java.util.List;
 
 // add to push
-@CrossOrigin(origins = { "http://localhost:3000/", "https://sopra-group-08-client.oa.r.appspot.com/" })
+@CrossOrigin(origins = { "http://localhost:3000/", "https://sopra-fs23-group-08-client.oa.r.appspot.com/" })
 @RestController
 public class GameController {
 
